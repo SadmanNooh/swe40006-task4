@@ -1,0 +1,8 @@
+item,weight,score,out_of
+Deployment Task 1,10,9,10
+Deployment Task 2,10,8,10
+Deployment Task 3,10,8.5,10
+Deployment Task 4,10,,10
+Guest Lecture Report,10,,10
+Test,20,,100
+Group Project,30,,100

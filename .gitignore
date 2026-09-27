@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+04-grade-check/data/report*.txt
+.DS_Store
